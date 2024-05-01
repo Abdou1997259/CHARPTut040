@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CHARPTut040.Foreach", "CHARPTut040.Foreach\CHARPTut040.Foreach.csproj", "{9E9126D8-4391-48BE-98AE-B5EFFC7155D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CHARPTut040.Yield", "CHARPTut040.Yield\CHARPTut040.Yield.csproj", "{2B666094-7837-4F95-A98F-6BE3CD49B106}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E9126D8-4391-48BE-98AE-B5EFFC7155D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E9126D8-4391-48BE-98AE-B5EFFC7155D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E9126D8-4391-48BE-98AE-B5EFFC7155D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E9126D8-4391-48BE-98AE-B5EFFC7155D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B666094-7837-4F95-A98F-6BE3CD49B106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B666094-7837-4F95-A98F-6BE3CD49B106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B666094-7837-4F95-A98F-6BE3CD49B106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B666094-7837-4F95-A98F-6BE3CD49B106}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5466485D-FEF6-437E-AD8E-63FE1ADF5B1C}
+	EndGlobalSection
+EndGlobal
